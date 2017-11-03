@@ -1,0 +1,24 @@
+{
+  "name": "server2",
+  "version": "1.0.0",
+  "description": "Node.js server2 on Docker",
+  "main": "server2.js",
+  "scripts": {
+    "start": "node server2.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdorrell/Server2.git"
+  },
+  "author": "Jason dorrell\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdorrell/Server2/issues"
+  },
+  "homepage": "https://github.com/jdorrell/Server2#readme"
+}
+  
+
